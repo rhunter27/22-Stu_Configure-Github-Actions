@@ -1,4 +1,3 @@
-# 22-Stu_Configure-Github-Actions
 # 📖 Create and Configure GitHub Actions
 
 Work with a partner to implement the following user story:
